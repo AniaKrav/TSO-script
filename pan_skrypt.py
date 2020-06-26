@@ -130,3 +130,4 @@ while j<11:
 # zamknięcie przeglądarki
 webbrowser. close()
 sys.exit(0)
+
